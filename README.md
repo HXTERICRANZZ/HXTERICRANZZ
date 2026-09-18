@@ -48,3 +48,5 @@ ${\textsf{\color{#ffffff} AUS Mythology}}$
 
 </tr>
 </table>
+
+<img width="610" height="378" alt="IMG_20260918_185806" src="https://github.com/user-attachments/assets/1465a37f-4cdc-409f-b136-467ae703e970" />

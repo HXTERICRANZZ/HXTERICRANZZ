@@ -1,54 +1,13 @@
+<table> 
+<tr>
+<td>
+${\textsf{\color{#6d1e21} current hyperfixations }}$
+</td>
+</tr> 
+</table> 
+
 <img width="906" height="714" alt="IMG_20260918_154139" src="https://github.com/user-attachments/assets/5689c3ed-d945-4933-9a4d-15f04f6f382e" />
 
-<p align="center"> wip
-
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-<p align="center"> 𓎢𓎠𓎟𓎠𓎡 
-<img src="https://github.com/user-attachments/assets/ea9a2e6f-1823-495e-924a-688f1ab407b5" width="5000">
-<p align="center"> 𓎢𓎠𓎟𓎠𓎡 
-</td>
-
-<td width="100%" valign="top">
-
-<div align="center">
-<br>
-
-<br>
-<table>
-  <tr>
-    <td>
-      ${\textsf{\color{#6D1E21}"my other fandoms"}}$
-    </td>
-  </tr>
-</table> 
-<br><br>
-
-<br> 
-
-<br>
-
-${\textsf{\color{#bb1818} DBZ OP FNaF TADC MouthWashing SkullGirls }}$
-<br>
-${\textsf{\color{#ff3b3d} FNF Naruto UshioToTora AceAttorney }}$
-<br>
-${\textsf{\color{#fe674d} PapaLouie AnimalHosp MLP }}$
-<br>
-${\textsf{\color{#ffe5b1} GCKT NaTM Rodamrix }}$
-<br> 
-${\textsf{\color{#ffffff} AUS Mythology}}$
-
-
-
-</div>
-
-</td>
-
-</tr>
-</table>
 <p align="center"> i like monkeys 
 <p align="center"> <img width="300" height="200" alt="IMG_20260918_185806" src="https://github.com/user-attachments/assets/1465a37f-4cdc-409f-b136-467ae703e970" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cranzlolxxx&label=pirates%20!&color=fe674d&style=flat" alt="cranzlolxxx" /> </p>

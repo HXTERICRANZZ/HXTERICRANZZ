@@ -1,6 +1,6 @@
 
 <p align="center"> wip
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cranzlolxxx&label=你%20好!&color=642727&style=flat" alt="cranzlolxxx" /> </p>
+
 
 <table>
 <tr>
@@ -48,5 +48,6 @@ ${\textsf{\color{#ffffff} AUS Mythology}}$
 
 </tr>
 </table>
-
-<img width="610" height="378" alt="IMG_20260918_185806" src="https://github.com/user-attachments/assets/1465a37f-4cdc-409f-b136-467ae703e970" />
+<p align="center"> i like monkeys 
+<p align="center"> <img width="300" height="200" alt="IMG_20260918_185806" src="https://github.com/user-attachments/assets/1465a37f-4cdc-409f-b136-467ae703e970" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cranzlolxxx&label=pirates%20!&color=fe674d&style=flat" alt="cranzlolxxx" /> </p>
